@@ -16,43 +16,6 @@ links:
 badge: https://img.shields.io/github/stars/open-mmlab/foleycrafter?style=social
 description: FoleyCrafter generates lifelike and synchronized sound effects for silent videos by combining semantic relevance with temporal alignment.
 
-## PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models
-url: https://pi-animator.github.io/
-image: assets/images/pia-teaser.gif
-short: PIA
-authors: Yiming Zhang, **Zhening Xing**, Yanhong Zeng, Youqing Fang, Kai Chen
-venue: CVPR, 2024
-links:
-- [homepage](https://pi-animator.github.io/)
-- [paper](https://arxiv.org/abs/2312.13964)
-- [code](https://github.com/open-mmlab/PIA)
-- [demo](https://huggingface.co/spaces/Leoxing/PIA)
-badge: https://img.shields.io/github/stars/open-mmlab/PIA?style=social
-description: PIA is a personalized image animation method for controllable motion and strong text-image alignment.
-
-## LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?
-url: https://arxiv.org/abs/2503.19990
-image: assets/images/lego-puzzles-teaser.png
-short: LEGO-Puzzles
-authors: Kexian Tang, Junyao Gao, Yanhong Zeng, Haodong Duan, Yanan Sun, **Zhening Xing**, Wenran Liu, Kaifeng Lyu, Kai Chen
-venue: arXiv, 2025
-links:
-- [paper](https://arxiv.org/abs/2503.19990)
-- [Hugging Face paper](https://huggingface.co/papers/2503.19990)
-description: LEGO-Puzzles evaluates multi-step spatial reasoning and sequential reasoning in multimodal large language models through LEGO-based tasks.
-
-## FaceShot: Bring Any Character into Life
-url: https://faceshot2024.github.io/faceshot/
-image: assets/images/faceshot-framework.png
-short: FaceShot
-authors: Junyao Gao, Yanan Sun, Fei Shen, Xin Jiang, **Zhening Xing**, Kai Chen, Cairong Zhao
-venue: ICLR, 2025
-links:
-- [homepage](https://faceshot2024.github.io/faceshot/)
-- [paper](https://arxiv.org/abs/2503.00740)
-- [Hugging Face paper](https://huggingface.co/papers/2503.00740)
-description: FaceShot is a training-free portrait animation framework that brings diverse character images to life from driving videos.
-
 ## Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models
 url: https://live2diff.github.io/
 image: assets/images/live2diff-framework.jpg
@@ -67,13 +30,16 @@ links:
 badge: https://img.shields.io/github/stars/open-mmlab/Live2Diff?style=social
 description: Live2Diff enables live video stream translation with uni-directional temporal attention, warmup, KV-cache, and real-time acceleration.
 
-## MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation
-url: https://motionshot.github.io/
-image: assets/images/motionshot.svg
-short: MotionShot
-authors: Yanchen Liu, Yanan Sun, **Zhening Xing**, Junyao Gao, Kai Chen, Wenjie Pei
-venue: ICCV, 2025
+## PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models
+url: https://pi-animator.github.io/
+image: assets/images/pia-teaser.gif
+short: PIA
+authors: Yiming Zhang, **Zhening Xing**, Yanhong Zeng, Youqing Fang, Kai Chen
+venue: CVPR, 2024
 links:
-- [homepage](https://motionshot.github.io/)
-- [paper](https://arxiv.org/abs/2507.16310)
-description: MotionShot transfers motion across arbitrary objects by combining semantic feature matching, shape retargeting, and temporal attention.
+- [homepage](https://pi-animator.github.io/)
+- [paper](https://arxiv.org/abs/2312.13964)
+- [code](https://github.com/open-mmlab/PIA)
+- [demo](https://huggingface.co/spaces/Leoxing/PIA)
+badge: https://img.shields.io/github/stars/open-mmlab/PIA?style=social
+description: PIA is a personalized image animation method for controllable motion and strong text-image alignment.

@@ -23,7 +23,6 @@ items:
 
 ## Miscellanea
 items:
-- **Topics:** agent systems, retrieval and data intelligence, controllable diffusion models, image and video generation, animation, video-to-audio generation, and multimodal reasoning.
-- **Systems:** experience spans research prototypes, open-source model demos, and production-facing AI agents.
+- **Topics:** agent systems, controllable diffusion models, image and video generation.
 - **Service:** reviewer for ICLR, CVPR, NeurIPS, and ECCV.
 - **Contact:** for research or collaboration, email [leoxing1996@gmail.com](mailto:leoxing1996@gmail.com).
