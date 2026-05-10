@@ -9,6 +9,7 @@ links:
 - [Email](mailto:leoxing1996@gmail.com)
 - [Google Scholar](https://scholar.google.com/citations?user=sVYO0GYAAAAJ&hl=en)
 - [GitHub](https://github.com/LeoXing1996)
+- [Twitter](https://x.com/LeoXing8)
 - [Hugging Face](https://huggingface.co/Leoxing)
 
 ## News
