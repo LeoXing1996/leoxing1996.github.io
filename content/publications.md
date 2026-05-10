@@ -65,15 +65,6 @@ links:
 badge: https://img.shields.io/github/stars/open-mmlab/Live2Diff?style=social
 description: Live2Diff enables live video stream translation with uni-directional temporal attention, warmup, KV-cache, and real-time acceleration.
 
-## Virtual Try-On with Garment Self-Occlusion Conditions
-url: https://ieeexplore.ieee.org/document/9815154
-short: Virtual Try-On
-authors: **Zhening Xing**, Yan Wu, Shizhan Liu, Shanshan Di, He Ma
-venue: IEEE Transactions on Multimedia, 2022
-links:
-- [paper](https://ieeexplore.ieee.org/document/9815154)
-description: This work studies virtual try-on under garment self-occlusion conditions, targeting more realistic garment transfer in challenging cases.
-
 ## MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation
 url: https://motionshot.github.io/
 short: MotionShot
@@ -83,12 +74,3 @@ links:
 - [homepage](https://motionshot.github.io/)
 - [paper](https://arxiv.org/abs/2507.16310)
 description: MotionShot transfers motion across arbitrary objects by combining semantic feature matching, shape retargeting, and temporal attention.
-
-## Cross-Domain Disentangle Network for Image Manipulation
-url: https://link.springer.com/chapter/10.1007/978-3-030-60636-8_20
-short: CDDN
-authors: **Zhening Xing**, Jie Wen, He Ma
-venue: PRCV, 2020
-links:
-- [paper](https://link.springer.com/chapter/10.1007/978-3-030-60636-8_20)
-description: Cross-Domain Disentangle Network studies disentangled representation learning for cross-domain image manipulation.
