@@ -1,0 +1,33 @@
+# Projects
+
+## Live2Diff
+url: https://live2diff.github.io/
+image: assets/images/live2diff-framework.jpg
+role: First author
+badge: https://img.shields.io/github/stars/open-mmlab/Live2Diff?style=social
+description: Live2Diff is a live stream translation framework for video diffusion models, using uni-directional temporal attention, warmup, multi-timestep KV-cache, and TensorRT acceleration for real-time video-to-video generation.
+
+## PIA: Personalized Image Animator
+url: https://pi-animator.github.io/
+image: assets/images/pia-teaser.gif
+role: Equal contribution
+badge: https://img.shields.io/github/stars/open-mmlab/PIA?style=social
+description: PIA animates personalized images with plug-and-play modules in text-to-image models, supporting controllable motion and strong text-image alignment.
+
+## FoleyCrafter
+url: https://foleycrafter.github.io/
+image: assets/images/foleycrafter.png
+role: Co-author
+badge: https://img.shields.io/github/stars/open-mmlab/foleycrafter?style=social
+description: FoleyCrafter is a video-to-audio generation framework that brings silent videos to life with semantically relevant and temporally synchronized sound effects.
+
+## H2CEvaluator
+url: https://github.com/LeoXing1996/H2CEvaluator
+role: Creator
+description: H2CEvaluator is an evaluator for the Human2Character task, built to support character generation and evaluation workflows.
+
+## OpenMMLab MMagic
+url: https://github.com/open-mmlab/mmagic
+image: assets/images/mmagic-logo.png
+badge: https://img.shields.io/github/stars/open-mmlab/mmagic?style=social
+description: MMagic is an OpenMMLab toolbox for image and video generation, editing, restoration, and related generative AI research workflows.
