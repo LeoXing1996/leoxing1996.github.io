@@ -32,6 +32,7 @@ description: PIA is a personalized image animation method for controllable motio
 
 ## LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?
 url: https://arxiv.org/abs/2503.19990
+image: assets/images/lego-puzzles-teaser.png
 short: LEGO-Puzzles
 authors: Kexian Tang, Junyao Gao, Yanhong Zeng, Haodong Duan, Yanan Sun, **Zhening Xing**, Wenran Liu, Kaifeng Lyu, Kai Chen
 venue: arXiv, 2025
@@ -42,6 +43,7 @@ description: LEGO-Puzzles evaluates multi-step spatial reasoning and sequential 
 
 ## FaceShot: Bring Any Character into Life
 url: https://faceshot2024.github.io/faceshot/
+image: assets/images/faceshot-framework.png
 short: FaceShot
 authors: Junyao Gao, Yanan Sun, Fei Shen, Xin Jiang, **Zhening Xing**, Kai Chen, Cairong Zhao
 venue: ICLR, 2025
@@ -67,6 +69,7 @@ description: Live2Diff enables live video stream translation with uni-directiona
 
 ## MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation
 url: https://motionshot.github.io/
+image: assets/images/motionshot.svg
 short: MotionShot
 authors: Yanchen Liu, Yanan Sun, **Zhening Xing**, Junyao Gao, Kai Chen, Wenjie Pei
 venue: ICCV, 2025
